@@ -1,0 +1,38 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": " Stuttgart | Germany",
+        "social": {
+            "twitter_handle": "consensusMonky",
+            "telegram_handle": "consensusMonky",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "Sailoshi",
+            "discord_handle": "Sailoshi",
+            "github_handle": "Sailoshi"
+        },
+        "company": {
+            "name": "consensusMonky",
+            "addr": "f7ec37830c2231c51d",
+            "city": " Stuttgart | Germany",
+            "country": "DE",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single pool operater from Germany.",
+            "server": "Hardware powered with green energy. BARE METAL SERVERS",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "a3ee9595fc779621978c97960b4835e14fd2dfea7fff28ccb977b56b",
+        "1": ""
+      },
+         "telegram-admin-handle": {
+        "0": "Sailoshi"
+    }
+    }
+   
+}
+
