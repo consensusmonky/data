@@ -1,0 +1,12 @@
+poolMetaData.json binary
+# oder für alle potentiell kritischen Dateien:
+*.exe binary
+*.dll binary
+*.zip binary
+*.deb binary
+*.rpm binary
+*.msi binary
+*.png binary
+*.jpg binary
+# oder ganz brutal alles als binary behandeln:
+# * binary
